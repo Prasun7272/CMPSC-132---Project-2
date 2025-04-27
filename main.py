@@ -49,7 +49,7 @@ class WildfireRiskSystem:
             self.risk_level = "Low Risk"
 
     def display_summary(self):
-        print("\n444 Wildfire Risk Summary:")
+        print("\n Wildfire Risk Summary:")
         print(f"Temperature: {self.temp}°F")
         print(f"Wind Speed: {self.wind_speed} mph")
         print(f"Humidity: {self.humidity}%")
